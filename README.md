@@ -208,7 +208,7 @@ sales_analysis/
 ├── data/
 │   └── events.csv
 │
-├── queries/
+├── sql/
 │   ├── user_journey.sql
 │   ├── source_funnel.sql
 │   ├── funnel_volume.sql
